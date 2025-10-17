@@ -1,0 +1,3 @@
+/Users/yankun/Library/CloudStorage/OneDrive-个人/Computing Sharing/仿真/假名/C++_linux/pym/cmake-build-debug/CMakeFiles/operation.dir
+/Users/yankun/Library/CloudStorage/OneDrive-个人/Computing Sharing/仿真/假名/C++_linux/pym/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yankun/Library/CloudStorage/OneDrive-个人/Computing Sharing/仿真/假名/C++_linux/pym/cmake-build-debug/CMakeFiles/rebuild_cache.dir

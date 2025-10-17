@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "operation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "operation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operation-Debug-e7ecff3cc8082d78f10c.json",
+					"name" : "operation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yankun/Library/CloudStorage/OneDrive-\u4e2a\u4eba/Computing Sharing/\u4eff\u771f/\u5047\u540d/C++_linux/pym/cmake-build-debug",
+		"source" : "/Users/yankun/Library/CloudStorage/OneDrive-\u4e2a\u4eba/Computing Sharing/\u4eff\u771f/\u5047\u540d/C++_linux/pym"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
